@@ -1,0 +1,28 @@
+Title
+h1 {
+  color: magenta
+}
+h1 {
+  text-align: center;
+}
+h2 {
+  text-align: center;
+}
+h3 {
+  text-align: center;
+}
+body {
+background-color: mistyrose;
+}
+p {
+background-color: lavender;
+}
+p {
+color: black;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: auto;
+}
